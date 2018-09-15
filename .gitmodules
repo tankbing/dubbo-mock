@@ -1,0 +1,3 @@
+[submodule "springboot-packaging-demo"]
+	path = springboot-packaging-demo
+	url = git@github.com:tankbing/springboot-packaging-demo.git
